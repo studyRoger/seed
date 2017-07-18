@@ -1,4 +1,4 @@
-package com.emc.roger;
+package org.roger.app;
 
 import org.junit.Test;
 
