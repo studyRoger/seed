@@ -1,0 +1,4 @@
+rootProject.name = 'seed'
+
+include 'common'
+include 'service'
